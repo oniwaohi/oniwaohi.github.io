@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oniwaohi.github.io/LTb/sitemap_index.txt
+Sitemap: https://oniwaohi.github.io/VTk/sitemap_index.txt
+Sitemap: https://oniwaohi.github.io/XaZ/sitemap_index.txt
+Sitemap: https://oniwaohi.github.io/itm/sitemap_index.txt
